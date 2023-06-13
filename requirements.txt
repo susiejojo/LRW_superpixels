@@ -1,0 +1,10 @@
+jupyter
+matplotlib
+networkx
+numpy
+opencv4
+pillow
+scikit-learn
+scikitimage
+scipy
+tqdm
